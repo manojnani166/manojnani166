@@ -13,9 +13,6 @@
 
 
 --------
-<div align="center" font-size=24px>
- 💫 About Me
-</div></br>
 
 <div align="center">
 <p>I am a Frontend developer</p>
