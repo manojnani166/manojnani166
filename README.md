@@ -7,7 +7,7 @@
 
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=%23ff0000&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+profile;I+am+Manoj.;I+am+Frontend+Developer.">
+ <img src="https://readme-typing-svg.herokuapp.com?color=%23ff0000&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+profile;I+am+Manoj+Kumar.;I+am+Frontend+Developer.">
 </p>
 
 
